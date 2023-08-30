@@ -1,5 +1,5 @@
 *
-!.*
-.CFUserTextEncoding
-.localized
-.viminfo
+!.gitignore
+!.bashrc
+!.zshrc
+!.vimrc
